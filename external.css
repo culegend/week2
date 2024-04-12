@@ -1,0 +1,56 @@
+h1{
+    color: red;
+}
+    span{
+        color: aqua;
+    }
+div{
+    color: aqua;
+}
+.a{
+    color: red;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: lighter;
+font-size: larger;
+font-style: italic;
+
+}
+.d{
+    color: rebeccapurple;
+    padding-left: 10px;
+font-size: 30rem;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: medium;
+font-style: oblique;
+
+}
+.c{
+    color: palevioletred;
+    padding-left: 10px;
+    font-size: 30rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: small;
+    font-style: normal;
+}
+.b{
+    color: brown;
+    padding-left: 10px;
+    font-size: 30rem;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: x-large;
+    font-style: italic;
+}
+.f{
+    color: gold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: x-large;
+    background-color: aquamarine;
+}
+
+.be{
+color:orange  ;
+font-size: medium;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+font-style: italic;
+
+}
